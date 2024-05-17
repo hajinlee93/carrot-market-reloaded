@@ -57,6 +57,7 @@ export default function Home() {
          </div>)}
       </div>
     </main>
+    
   );
 }
 // dark modifier는 기본 컴퓨터 화면모드에 따라 바뀐다 
